@@ -77,6 +77,9 @@ body {
     margin: 0 5px 0 40%;
     color: #fff;
 }
+.botao-lido--vermelho{
+    background-color: red;
+}
 
 @media(min-width: 400px) {
     .botao-lido {
